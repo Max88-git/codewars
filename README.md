@@ -17,15 +17,17 @@ Codewars is a community of developers, who are called Code Warriors (or just war
 
 - Kata: is an algorithm you have to solve in any programming language you desire
 
+- [Kata rank definitions](https://docs.codewars.com/curation/references/kata-ranks/)
+
 - Kyu: is a digit that determines kata difficulty level as well as the user rank on the platform:
   <br>
-  - 1kyu, 2kyu - Proficient
+  - 1kyu, 2kyu - Purple (Proficient)
     <br>
-  - 3kyu, 4kyu - Competent
+  - 3kyu, 4kyu - Blue (Competent)
     <br>
-  - 5kyu, 6kyu - Novice
+  - 5kyu, 6kyu - Yellow (Novice)
     <br>
-  - 7kyu, 8kyu - Beginner
+  - 7kyu, 8kyu - White (Beginner)
     <br>
 
 ### Disclaimer
