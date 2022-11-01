@@ -7,7 +7,7 @@ Solutions for [Codewars](https://www.codewars.com/) katas.
 from [Codewars wiki](https://github.com/Codewars/codewars.com/wiki/About-Codewars):
 Codewars is a community of developers, who are called Code Warriors (or just warriors), that train on improving their development skills. Think of it like a coding dojo - where developers train with each other and help each other get better through practice
 
-<a href=https://www.codewars.com/users/Maximus88>My</a> current Codewars rank:
+<a href=https://www.codewars.com/users/maxlockwood>My</a> current Codewars rank:
 <br>
 <br>
 <img src=https://www.codewars.com/users/Maximus88/badges/large>
