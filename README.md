@@ -10,7 +10,7 @@ Codewars is a community of developers, who are called Code Warriors (or just war
 <a href=https://www.codewars.com/users/maxlockwood>My</a> current Codewars rank:
 <br>
 <br>
-<img src=https://www.codewars.com/users/Maximus88/badges/large>
+<img src=https://www.codewars.com/users/maxlockwood/badges/large>
 <br>
 
 ### Vocabulary
